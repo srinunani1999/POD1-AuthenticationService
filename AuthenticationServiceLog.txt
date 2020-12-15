@@ -1,0 +1,347 @@
+2020-12-09 13:39:47,911 Application started. Press Ctrl+C to shut down.
+2020-12-09 13:39:47,923 Hosting environment: Development
+2020-12-09 13:39:47,926 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-09 13:42:26,070 Application started. Press Ctrl+C to shut down.
+2020-12-09 13:42:26,174 Hosting environment: Development
+2020-12-09 13:42:26,176 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-09 13:46:32,146 HemaSrinivas requested to login
+2020-12-09 13:46:32,837 HemaSrinivas Attempted to login with invalid credentials
+2020-12-09 13:46:32,869 HemaSrinivasFailed to login
+2020-12-09 15:55:58,979 Application started. Press Ctrl+C to shut down.
+2020-12-09 15:55:58,993 Hosting environment: Development
+2020-12-09 15:55:58,996 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-09 15:56:43,525 Application started. Press Ctrl+C to shut down.
+2020-12-09 15:56:43,537 Hosting environment: Development
+2020-12-09 15:56:43,539 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-09 15:57:29,725 HemaSrinivas requested to login
+2020-12-09 15:57:29,727 HemaSrinivas Authenticated successfully
+2020-12-09 15:57:29,795 HemaSrinivas logged in successfully
+2020-12-09 15:57:55,182 HemaSriniv requested to login
+2020-12-09 15:57:55,183 HemaSriniv Attempted to login with invalid credentials
+2020-12-09 15:57:55,183 HemaSrinivFailed to login
+2020-12-09 16:00:53,111 Application started. Press Ctrl+C to shut down.
+2020-12-09 16:00:53,119 Hosting environment: Development
+2020-12-09 16:00:53,120 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-09 16:01:20,593 srinu requested to login
+2020-12-09 16:01:20,596 srinu Authenticated successfully
+2020-12-09 16:01:20,614 srinu logged in successfully
+2020-12-09 16:05:11,915 Application started. Press Ctrl+C to shut down.
+2020-12-09 16:05:11,927 Hosting environment: Development
+2020-12-09 16:05:11,930 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-09 16:05:37,172 srinu requested to login
+2020-12-09 16:05:37,173 srinu Authenticated successfully
+2020-12-09 16:05:37,582 srinu logged in successfully
+2020-12-09 16:05:47,109 srinu requested to login
+2020-12-09 16:05:47,110 srinu Attempted to login with invalid credentials
+2020-12-09 16:05:47,110 srinuFailed to login
+2020-12-10 15:45:43,575 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:45:43,592 Hosting environment: Development
+2020-12-10 15:45:43,596 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-10 15:59:00,119 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:59:00,156 Hosting environment: Development
+2020-12-10 15:59:00,160 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-10 15:59:25,000 srinu requested to getuser
+2020-12-10 15:59:33,668 srisdfnu requested to getuser
+2020-12-10 15:59:33,668 user not found with username srisdfnu
+2020-12-10 16:00:25,240 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:00:25,264 Hosting environment: Development
+2020-12-10 16:00:25,267 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-10 16:01:13,045 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:01:13,077 Hosting environment: Development
+2020-12-10 16:01:13,081 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-10 16:01:28,615 string requested to getuser
+2020-12-10 16:01:28,617 user not found with username string
+2020-12-10 16:11:20,251 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:11:20,278 Hosting environment: Development
+2020-12-10 16:11:20,281 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-10 16:11:42,276 srinu requested to getuser
+2020-12-10 16:12:01,602 srinu requested to login
+2020-12-10 16:12:01,603 srinu Authenticated successfully
+2020-12-10 16:12:04,372 srinu logged in successfully
+2020-12-10 16:14:44,108 srinu requested to getuser
+2020-12-10 16:14:44,191 srinu requested to login
+2020-12-10 16:14:44,191 srinu Authenticated successfully
+2020-12-10 16:14:44,193 srinu logged in successfully
+2020-12-10 16:19:12,563 srinu requested to getuser
+2020-12-10 16:19:12,689 srinu requested to login
+2020-12-10 16:19:12,689 srinu Authenticated successfully
+2020-12-10 16:19:12,694 srinu logged in successfully
+2020-12-10 16:21:46,296 srinu requested to getuser
+2020-12-10 16:21:46,522 srinu requested to login
+2020-12-10 16:21:46,522 srinu Authenticated successfully
+2020-12-10 16:21:46,525 srinu logged in successfully
+2020-12-11 19:13:45,581 Application started. Press Ctrl+C to shut down.
+2020-12-11 19:13:45,597 Hosting environment: Development
+2020-12-11 19:13:45,601 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-11 19:14:50,795 srinu requested to login
+2020-12-11 19:14:50,796 srinu Authenticated successfully
+2020-12-11 19:14:51,973 srinu logged in successfully
+2020-12-11 19:15:44,802 srinu requested to getuser
+2020-12-11 19:15:55,162 srinu requested to login
+2020-12-11 19:15:55,163 srinu Authenticated successfully
+2020-12-11 19:15:55,180 srinu logged in successfully
+2020-12-11 19:17:01,911 srinu requested to getuser
+2020-12-11 19:17:02,033 srinu requested to login
+2020-12-11 19:17:02,033 srinu Authenticated successfully
+2020-12-11 19:17:02,034 srinu logged in successfully
+2020-12-11 19:22:07,557 srinu requested to getuser
+2020-12-11 19:22:07,614 srinu requested to login
+2020-12-11 19:22:07,614 srinu Authenticated successfully
+2020-12-11 19:22:07,615 srinu logged in successfully
+2020-12-11 19:30:30,072 srinu requested to getuser
+2020-12-11 19:30:30,121 srinu requested to login
+2020-12-11 19:30:30,121 srinu Authenticated successfully
+2020-12-11 19:30:30,121 srinu logged in successfully
+2020-12-11 19:34:56,793 srinu requested to getuser
+2020-12-11 19:34:56,928 srinu requested to login
+2020-12-11 19:34:56,928 srinu Authenticated successfully
+2020-12-11 19:34:56,931 srinu logged in successfully
+2020-12-11 19:35:46,873 srinu requested to getuser
+2020-12-11 19:35:46,991 srinu requested to login
+2020-12-11 19:35:46,991 srinu Authenticated successfully
+2020-12-11 19:35:46,992 srinu logged in successfully
+2020-12-11 19:36:31,905 srinu requested to getuser
+2020-12-11 19:36:31,988 srinu requested to login
+2020-12-11 19:36:31,988 srinu Authenticated successfully
+2020-12-11 19:36:31,988 srinu logged in successfully
+2020-12-11 19:38:05,314 srinu requested to getuser
+2020-12-11 19:38:05,372 srinu requested to login
+2020-12-11 19:38:05,372 srinu Authenticated successfully
+2020-12-11 19:38:05,373 srinu logged in successfully
+2020-12-11 19:40:50,840 srinu requested to getuser
+2020-12-11 19:40:50,935 srinu requested to login
+2020-12-11 19:40:50,935 srinu Authenticated successfully
+2020-12-11 19:40:50,937 srinu logged in successfully
+2020-12-11 19:49:58,162 srinu requested to getuser
+2020-12-11 19:49:58,254 srinu requested to login
+2020-12-11 19:49:58,254 srinu Authenticated successfully
+2020-12-11 19:49:58,254 srinu logged in successfully
+2020-12-11 19:53:13,613 srinu requested to getuser
+2020-12-11 19:53:13,660 srinu requested to login
+2020-12-11 19:53:13,660 srinu Authenticated successfully
+2020-12-11 19:53:13,689 srinu logged in successfully
+2020-12-12 10:19:26,656 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:19:26,676 Hosting environment: Development
+2020-12-12 10:19:26,680 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 10:20:35,288 srinu requested to getuser
+2020-12-12 10:20:35,289 user not found with username srinu
+2020-12-12 10:20:50,632 srinu requested to getuser
+2020-12-12 10:20:50,719 srinu requested to login
+2020-12-12 10:20:50,720 srinu Authenticated successfully
+2020-12-12 10:20:51,125 srinu logged in successfully
+2020-12-12 10:27:57,306 srinu requested to getuser
+2020-12-12 10:27:57,398 srinu requested to login
+2020-12-12 10:27:57,398 srinu Authenticated successfully
+2020-12-12 10:27:57,399 srinu logged in successfully
+2020-12-12 10:33:52,197 srinu requested to getuser
+2020-12-12 10:33:52,316 srinu requested to login
+2020-12-12 10:33:52,316 srinu Authenticated successfully
+2020-12-12 10:33:52,318 srinu logged in successfully
+2020-12-12 10:37:50,638 srinu requested to getuser
+2020-12-12 10:37:50,736 srinu requested to login
+2020-12-12 10:37:50,736 srinu Authenticated successfully
+2020-12-12 10:37:50,737 srinu logged in successfully
+2020-12-12 10:39:34,938 srinu requested to getuser
+2020-12-12 10:39:34,996 srinu requested to login
+2020-12-12 10:39:34,996 srinu Authenticated successfully
+2020-12-12 10:39:34,997 srinu logged in successfully
+2020-12-12 10:40:55,253 srinu requested to getuser
+2020-12-12 10:40:55,360 srinu requested to login
+2020-12-12 10:40:55,360 srinu Authenticated successfully
+2020-12-12 10:40:55,428 srinu logged in successfully
+2020-12-12 10:42:09,389 srinu requested to getuser
+2020-12-12 10:42:09,494 srinu requested to login
+2020-12-12 10:42:09,494 srinu Authenticated successfully
+2020-12-12 10:42:09,496 srinu logged in successfully
+2020-12-12 10:45:05,597 srinu requested to getuser
+2020-12-12 10:45:05,791 srinu requested to login
+2020-12-12 10:45:05,791 srinu Authenticated successfully
+2020-12-12 10:45:05,817 srinu logged in successfully
+2020-12-12 10:57:31,854 srinu requested to getuser
+2020-12-12 10:57:31,986 srinu requested to login
+2020-12-12 10:57:31,986 srinu Authenticated successfully
+2020-12-12 10:57:32,006 srinu logged in successfully
+2020-12-12 11:37:36,017 sinu requested to getuser
+2020-12-12 11:37:36,122 user not found with username sinu
+2020-12-12 11:38:36,647 Application started. Press Ctrl+C to shut down.
+2020-12-12 11:38:36,659 Hosting environment: Development
+2020-12-12 11:38:36,661 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 11:44:05,538 srinu requested to getuser
+2020-12-12 11:44:05,673 srinu requested to login
+2020-12-12 11:44:05,674 srinu Authenticated successfully
+2020-12-12 11:44:06,521 srinu logged in successfully
+2020-12-12 12:00:20,040 Application started. Press Ctrl+C to shut down.
+2020-12-12 12:00:20,059 Hosting environment: Development
+2020-12-12 12:00:20,061 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 12:01:34,672 srinu requested to getuser
+2020-12-12 12:01:34,771 srinu requested to login
+2020-12-12 12:01:34,772 srinu Authenticated successfully
+2020-12-12 12:01:35,273 srinu logged in successfully
+2020-12-12 12:15:44,033 srinu requested to getuser
+2020-12-12 12:15:44,162 srinu requested to login
+2020-12-12 12:15:44,162 srinu Authenticated successfully
+2020-12-12 12:15:44,191 srinu logged in successfully
+2020-12-12 12:17:16,867 Application started. Press Ctrl+C to shut down.
+2020-12-12 12:17:16,888 Hosting environment: Development
+2020-12-12 12:17:16,891 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 12:20:17,112 srinu requested to getuser
+2020-12-12 12:20:17,267 srinu requested to login
+2020-12-12 12:20:17,268 srinu Authenticated successfully
+2020-12-12 12:20:17,617 srinu logged in successfully
+2020-12-12 12:23:47,045 srinu requested to getuser
+2020-12-12 12:23:47,216 srinu requested to login
+2020-12-12 12:23:47,216 srinu Authenticated successfully
+2020-12-12 12:23:47,219 srinu logged in successfully
+2020-12-12 12:25:00,901 srinu requested to getuser
+2020-12-12 12:25:01,118 srinu requested to login
+2020-12-12 12:25:01,118 srinu Authenticated successfully
+2020-12-12 12:25:01,119 srinu logged in successfully
+2020-12-12 13:15:34,237 Application started. Press Ctrl+C to shut down.
+2020-12-12 13:15:34,244 Hosting environment: Development
+2020-12-12 13:15:34,246 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 13:16:24,885 srinu requested to getuser
+2020-12-12 13:16:24,937 srinu requested to login
+2020-12-12 13:16:24,938 srinu Authenticated successfully
+2020-12-12 13:16:25,362 srinu logged in successfully
+2020-12-12 13:42:31,244 Application started. Press Ctrl+C to shut down.
+2020-12-12 13:42:31,252 Hosting environment: Development
+2020-12-12 13:42:31,254 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 13:43:03,922 srinu requested to getuser
+2020-12-12 13:43:04,032 srinu requested to login
+2020-12-12 13:43:04,033 srinu Attempted to login with invalid credentials
+2020-12-12 13:43:04,033 srinuFailed to login
+2020-12-12 13:43:19,509 srinu requested to getuser
+2020-12-12 13:43:19,516 srinu requested to login
+2020-12-12 13:43:19,516 srinu Attempted to login with invalid credentials
+2020-12-12 13:43:19,517 srinuFailed to login
+2020-12-12 13:44:06,871 srinu requested to getuser
+2020-12-12 13:44:46,051 srinu requested to login
+2020-12-12 13:44:46,051 srinu Attempted to login with invalid credentials
+2020-12-12 13:44:46,051 srinuFailed to login
+2020-12-12 13:45:31,754 srinu requested to getuser
+2020-12-12 13:45:51,315 srinu requested to login
+2020-12-12 13:45:51,315 srinu Attempted to login with invalid credentials
+2020-12-12 13:45:51,315 srinuFailed to login
+2020-12-12 13:46:30,259 srinu requested to getuser
+2020-12-12 13:46:35,198 srinu requested to login
+2020-12-12 13:46:35,199 srinu Attempted to login with invalid credentials
+2020-12-12 13:46:35,199 srinuFailed to login
+2020-12-12 13:47:17,198 Application started. Press Ctrl+C to shut down.
+2020-12-12 13:47:17,215 Hosting environment: Development
+2020-12-12 13:47:17,217 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 13:47:48,867 srinu requested to login
+2020-12-12 13:47:48,868 srinu Attempted to login with invalid credentials
+2020-12-12 13:47:48,868 srinuFailed to login
+2020-12-12 13:48:12,003 srinu requested to login
+2020-12-12 13:49:35,501 srinu Attempted to login with invalid credentials
+2020-12-12 13:49:35,501 srinuFailed to login
+2020-12-12 13:50:11,032 Application started. Press Ctrl+C to shut down.
+2020-12-12 13:50:11,047 Hosting environment: Development
+2020-12-12 13:50:11,049 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 13:52:25,375 Application started. Press Ctrl+C to shut down.
+2020-12-12 13:52:25,391 Hosting environment: Development
+2020-12-12 13:52:25,393 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 13:52:59,265 srinu requested to login
+2020-12-12 13:52:59,268 srinu Attempted to login with invalid credentials
+2020-12-12 13:52:59,268 srinuFailed to login
+2020-12-12 13:53:15,456 srinu requested to login
+2020-12-12 13:53:37,065 srinu Attempted to login with invalid credentials
+2020-12-12 13:53:37,065 srinuFailed to login
+2020-12-12 13:53:46,014 srinus requested to login
+2020-12-12 13:53:47,392 srinus Authenticated successfully
+2020-12-12 13:53:47,782 srinus logged in successfully
+2020-12-12 13:54:07,167 srinus requested to getuser
+2020-12-12 13:54:10,516 srinus requested to login
+2020-12-12 13:54:10,516 srinus Authenticated successfully
+2020-12-12 13:54:10,517 srinus logged in successfully
+2020-12-12 13:55:13,683 srinu requested to getuser
+2020-12-12 13:55:13,683 user not found with username srinu
+2020-12-12 13:55:43,596 srinus requested to login
+2020-12-12 13:55:43,596 srinus Authenticated successfully
+2020-12-12 13:55:43,596 srinus logged in successfully
+2020-12-12 13:56:02,580 srinus requested to getuser
+2020-12-12 13:56:02,583 srinus requested to login
+2020-12-12 13:56:02,583 srinus Authenticated successfully
+2020-12-12 13:56:02,583 srinus logged in successfully
+2020-12-12 13:59:14,759 srinus requested to getuser
+2020-12-12 13:59:14,809 srinus requested to login
+2020-12-12 13:59:14,809 srinus Authenticated successfully
+2020-12-12 13:59:14,810 srinus logged in successfully
+2020-12-12 14:01:33,749 srinu requested to getuser
+2020-12-12 14:01:33,851 srinu requested to login
+2020-12-12 14:01:33,852 srinu Authenticated successfully
+2020-12-12 14:01:33,853 srinu logged in successfully
+2020-12-12 14:06:39,355 srinu requested to getuser
+2020-12-12 14:06:39,401 srinu requested to login
+2020-12-12 14:06:39,401 srinu Authenticated successfully
+2020-12-12 14:06:39,402 srinu logged in successfully
+2020-12-12 19:41:06,757 Application started. Press Ctrl+C to shut down.
+2020-12-12 19:41:06,771 Hosting environment: Development
+2020-12-12 19:41:06,773 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-12 19:41:43,110 srinu requested to getuser
+2020-12-12 19:41:43,171 srinu requested to login
+2020-12-12 19:41:43,171 srinu Authenticated successfully
+2020-12-12 19:41:43,384 srinu logged in successfully
+2020-12-12 20:15:03,492 srinu requested to getuser
+2020-12-12 20:15:03,658 srinu requested to login
+2020-12-12 20:15:03,658 srinu Authenticated successfully
+2020-12-12 20:15:03,715 srinu logged in successfully
+2020-12-12 20:18:14,563 srinu requested to getuser
+2020-12-12 20:18:14,612 srinu requested to login
+2020-12-12 20:18:14,612 srinu Authenticated successfully
+2020-12-12 20:18:14,612 srinu logged in successfully
+2020-12-12 20:19:09,027 srinu requested to getuser
+2020-12-12 20:19:09,073 srinu requested to login
+2020-12-12 20:19:09,073 srinu Authenticated successfully
+2020-12-12 20:19:09,073 srinu logged in successfully
+2020-12-12 20:21:55,150 srinu requested to getuser
+2020-12-12 20:21:55,207 srinu requested to login
+2020-12-12 20:21:55,207 srinu Authenticated successfully
+2020-12-12 20:21:55,208 srinu logged in successfully
+2020-12-12 20:22:31,565 srinu requested to getuser
+2020-12-12 20:22:31,577 srinu requested to login
+2020-12-12 20:22:31,578 srinu Authenticated successfully
+2020-12-12 20:22:31,578 srinu logged in successfully
+2020-12-12 20:29:55,853 srinu requested to getuser
+2020-12-12 20:29:55,899 srinu requested to login
+2020-12-12 20:29:55,899 srinu Authenticated successfully
+2020-12-12 20:29:55,911 srinu logged in successfully
+2020-12-14 15:32:47,021 Application started. Press Ctrl+C to shut down.
+2020-12-14 15:32:47,035 Hosting environment: Development
+2020-12-14 15:32:47,037 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-14 15:51:16,206 Application started. Press Ctrl+C to shut down.
+2020-12-14 15:51:16,241 Hosting environment: Development
+2020-12-14 15:51:16,244 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-14 15:51:33,990 srinu requested to getuser
+2020-12-14 15:51:34,119 srinu requested to login
+2020-12-14 15:51:34,120 srinu Authenticated successfully
+2020-12-14 15:51:35,733 srinu logged in successfully
+2020-12-14 16:02:14,342 Application started. Press Ctrl+C to shut down.
+2020-12-14 16:02:14,362 Hosting environment: Development
+2020-12-14 16:02:14,364 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-14 16:02:55,153 srinu requested to getuser
+2020-12-14 16:02:55,228 srinu requested to login
+2020-12-14 16:02:55,229 srinu Authenticated successfully
+2020-12-14 16:02:56,290 srinu logged in successfully
+2020-12-15 12:21:13,059 Application started. Press Ctrl+C to shut down.
+2020-12-15 12:21:13,130 Hosting environment: Development
+2020-12-15 12:21:13,133 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-15 12:33:08,834 Application started. Press Ctrl+C to shut down.
+2020-12-15 12:33:08,850 Hosting environment: Development
+2020-12-15 12:33:08,852 Content root path: E:\RetailBankingSystem\AuthenticationService
+2020-12-15 12:33:45,228 srinu requested to getuser
+2020-12-15 12:33:45,318 srinu requested to login
+2020-12-15 12:33:45,319 srinu Authenticated successfully
+2020-12-15 12:33:46,272 srinu logged in successfully
+2020-12-15 12:41:35,527 srinu requested to getuser
+2020-12-15 12:41:35,812 srinu requested to login
+2020-12-15 12:41:35,824 srinu Authenticated successfully
+2020-12-15 12:41:35,906 srinu logged in successfully
+2020-12-15 12:45:15,837 srinu requested to getuser
+2020-12-15 12:45:15,931 srinu requested to login
+2020-12-15 12:45:15,931 srinu Authenticated successfully
+2020-12-15 12:45:16,013 srinu logged in successfully
+2020-12-15 12:45:34,392 srinus requested to getuser
+2020-12-15 12:45:34,404 srinus requested to login
+2020-12-15 12:45:34,404 srinus Authenticated successfully
+2020-12-15 12:45:34,405 srinus logged in successfully
